@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projeto_react/static/css/main.60f4aef0.css",
-    "main.js": "/projeto_react/static/js/main.f3cb3703.js",
-    "static/media/logoApp.png": "/projeto_react/static/media/logoApp.1d8b4ce42502276ab2d0.png",
-    "static/media/fechar.png": "/projeto_react/static/media/fechar.2426ab31245a19e3e8aa.png",
-    "index.html": "/projeto_react/index.html",
-    "main.60f4aef0.css.map": "/projeto_react/static/css/main.60f4aef0.css.map",
-    "main.f3cb3703.js.map": "/projeto_react/static/js/main.f3cb3703.js.map"
+    "main.css": "/Envio_de_dinheiro/static/css/main.60f4aef0.css",
+    "main.js": "/Envio_de_dinheiro/static/js/main.152a3b5f.js",
+    "static/media/logoApp.png": "/Envio_de_dinheiro/static/media/logoApp.1d8b4ce42502276ab2d0.png",
+    "static/media/fechar.png": "/Envio_de_dinheiro/static/media/fechar.2426ab31245a19e3e8aa.png",
+    "index.html": "/Envio_de_dinheiro/index.html",
+    "main.60f4aef0.css.map": "/Envio_de_dinheiro/static/css/main.60f4aef0.css.map",
+    "main.152a3b5f.js.map": "/Envio_de_dinheiro/static/js/main.152a3b5f.js.map"
   },
   "entrypoints": [
     "static/css/main.60f4aef0.css",
-    "static/js/main.f3cb3703.js"
+    "static/js/main.152a3b5f.js"
   ]
 }
