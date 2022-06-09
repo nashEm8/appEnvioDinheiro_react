@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.conteudo {
+    display: flex;
+    border-top: 2px solid #fff;
+}
+
+.conteudo-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #262940;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.conteudo-esquerdo{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.conteudo-esquerdo img{
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+}
+
+.dados{
+    padding-left: 20px;
+}
+
+h4{
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h4:nth-child(1){
+    font-size: 25px;
+    color: #d0d862;
+}
+
+.conteudo-direito .botao button{
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+
+
+@media only screen and (min-width: 412px) and (max-width: 631px) {
+
+    .conteudo-container{
+        flex-direction: column;
+    }
+
+    .conteudo-direito .botao button{
+        margin-left: 90px;
+        width: 120px;
+    }
+}
+
+@media only screen and (max-width: 411px) {
+
+    .conteudo-container{
+        flex-direction: column;
+    }
+
+    .conteudo-direito .botao button{
+        margin-left: 100px;
+        width: 150px;
+    }
+}
