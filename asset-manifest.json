@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Envio_dinheiro/static/css/main.60f4aef0.css",
-    "main.js": "/Envio_dinheiro/static/js/main.7efec747.js",
-    "static/media/logoApp.png": "/Envio_dinheiro/static/media/logoApp.1d8b4ce42502276ab2d0.png",
-    "static/media/fechar.png": "/Envio_dinheiro/static/media/fechar.2426ab31245a19e3e8aa.png",
-    "index.html": "/Envio_dinheiro/index.html",
-    "main.60f4aef0.css.map": "/Envio_dinheiro/static/css/main.60f4aef0.css.map",
-    "main.7efec747.js.map": "/Envio_dinheiro/static/js/main.7efec747.js.map"
+    "main.css": "/projeto_react/static/css/main.60f4aef0.css",
+    "main.js": "/projeto_react/static/js/main.f3cb3703.js",
+    "static/media/logoApp.png": "/projeto_react/static/media/logoApp.1d8b4ce42502276ab2d0.png",
+    "static/media/fechar.png": "/projeto_react/static/media/fechar.2426ab31245a19e3e8aa.png",
+    "index.html": "/projeto_react/index.html",
+    "main.60f4aef0.css.map": "/projeto_react/static/css/main.60f4aef0.css.map",
+    "main.f3cb3703.js.map": "/projeto_react/static/js/main.f3cb3703.js.map"
   },
   "entrypoints": [
     "static/css/main.60f4aef0.css",
-    "static/js/main.7efec747.js"
+    "static/js/main.f3cb3703.js"
   ]
 }
